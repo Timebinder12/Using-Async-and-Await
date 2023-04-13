@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\bin\Debug\net6.0\Using Async and Await.exe
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\bin\Debug\net6.0\Using Async and Await.deps.json
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\bin\Debug\net6.0\Using Async and Await.runtimeconfig.json
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\bin\Debug\net6.0\Using Async and Await.dll
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\bin\Debug\net6.0\Using Async and Await.pdb
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\obj\Debug\net6.0\Using Async and Await.csproj.AssemblyReference.cache
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\obj\Debug\net6.0\Using Async and Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\obj\Debug\net6.0\Using Async and Await.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\obj\Debug\net6.0\Using Async and Await.AssemblyInfo.cs
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\obj\Debug\net6.0\Using Async and Await.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\obj\Debug\net6.0\Using Async and Await.dll
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\obj\Debug\net6.0\refint\Using Async and Await.dll
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\obj\Debug\net6.0\Using Async and Await.pdb
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\obj\Debug\net6.0\Using Async and Await.genruntimeconfig.cache
+C:\Users\shane\source\repos\Using Async and Await\Using Async and Await\obj\Debug\net6.0\ref\Using Async and Await.dll
